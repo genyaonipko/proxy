@@ -1,0 +1,15 @@
+{
+  "name": "Proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-http-proxy": "^1.4.0",
+    "nodemon": "^1.18.6"
+  }
+}
